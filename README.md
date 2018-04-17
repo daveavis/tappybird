@@ -1,6 +1,8 @@
 # Tappy Bird
 This project was made in Unity following [this](https://www.youtube.com/watch?v=A-GkNM8M5p8) tutorial.
 
+[Playable WebGL version](http://www.daveavis.com/games/tappybird)
+
 Tools Used:
 * [Unity](http://unity3d.com)
 * [Gimp](http://gimp.org) - for the clouds, stars, and pipes
